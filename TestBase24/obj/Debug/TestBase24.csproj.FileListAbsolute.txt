@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\TestBase24\TestBase24\obj\Debug\TestBase24.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\TestBase24\TestBase24\obj\Debug\TestBase24.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\TestBase24\TestBase24\bin\Debug\TestBase24.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\TestBase24\TestBase24\bin\Debug\TestBase24.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\TestBase24\TestBase24\bin\Debug\TestBase24.application
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\TestBase24\TestBase24\bin\Debug\TestBase24.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\TestBase24\TestBase24\bin\Debug\TestBase24.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\TestBase24\TestBase24\obj\Debug\TestBase24.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\TestBase24\TestBase24\obj\Debug\TestBase24.application
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\TestBase24\TestBase24\obj\Debug\TestBase24.csprojResolveAssemblyReference.cache
